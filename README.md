@@ -1,6 +1,7 @@
 🛒 Superstore Sales Analytics – End-to-End Data Analysis Project
 
 📌 Summary
+
 An end-to-end data analytics project that analyzes Superstore sales data by performing data cleaning in Python, business insight extraction using MySQL, and interactive dashboard creation in Power BI. The project demonstrates how raw transactional data can be transformed into actionable business insights through a complete analytics pipeline.
 
 🎯 Objective
@@ -53,4 +54,5 @@ Interactivity
 - DAX – Measures and KPIs
 
 📝 Description
+
 This project demonstrates an end-to-end data analytics workflow using Python, MySQL, and Power BI. The raw dataset was first cleaned and prepared in Python by handling missing values, correcting data types, and standardizing columns to ensure data quality. The cleaned data was then analyzed in MySQL to derive meaningful insights using SQL queries. Finally, an interactive Power BI dashboard was created to present the insights visually, enabling clear data storytelling and supporting data-driven decision-making.
