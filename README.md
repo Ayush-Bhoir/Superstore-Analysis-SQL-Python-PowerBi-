@@ -1,4 +1,4 @@
-🛒 Superstore Sales Analytics – End-to-End Data Analysis Project
+# 🛒 Superstore Sales Analytics – End-to-End Data Analysis Project
 
 📌 Summary
 
